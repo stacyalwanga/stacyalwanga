@@ -25,7 +25,6 @@
 ### **Automation & Tool Development**
 - **Security Automation Scripts** - Python and Bash scripts for vulnerability scanning and log analysis
 - **Custom Penetration Testing Tools** - Developed specialized tools for reconnaissance and exploitation
-- **DPIA Automation** - Scripts to streamline Data Protection Impact Assessments
 
 ---
 
@@ -49,7 +48,7 @@ Strathmore University
 - MITRE ATT&CK Framework & Cyber Kill Chain Analysis
 - Cloud Security (AWS, GCP, Azure)
 - Linux/Unix System Administration (RHEL, Ubuntu, Kali)
-- Python, Bash, JavaScript, PHP, Docker
+- Python, Bash, PHP, Docker
 
 ---
 
