@@ -97,6 +97,7 @@ Strathmore University
 
 📧 **Email:** astacy554@yahoo.com  
 📱 **Phone:** (+254) 0797 912 580  
+📱 **Linkedin:** https://www.linkedin.com/in/stacy-alwanga-816494210/ 
 📍 **Location:** Nairobi, Kenya
 
 ---
