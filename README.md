@@ -76,7 +76,7 @@ Strathmore University
 
 ## 🏆 Achievements & Recognition:
 
-- **National Recognition from Nation Media** Featured in Nation Media Group (October 2024) - "Meet the 22-year-old mentoring future cybersecurity experts, one girl at a time" - National recognition for transforming the tech landscape by mentoring young women and girls in cybersecurity. https://nation.africa/kenya/news/gender/meet-the-22-year-old-mentoring-future-cybersecurity-experts-one-girl-at-a-time-4789788 
+- **National Recognition from Nation Media** Featured in Nation Media Group (October 2024) - National recognition for transforming the tech landscape by mentoring young women and girls in cybersecurity. https://nation.africa/kenya/news/gender/meet-the-22-year-old-mentoring-future-cybersecurity-experts-one-girl-at-a-time-4789788 
 - Successfully conducted **independent VAPT assessments** for clients across financial, education, and manufacturing sectors
 - **Identified and remediated critical vulnerabilities** in cloud environments and enterprise networks
 
